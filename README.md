@@ -16,9 +16,11 @@ Toy Datasets for the meeting:
          i. raw data - (https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=0cc2dc09e56d456798b9f92600c67023)
          ii. gnps results page (https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=093798dffe2448239410c3d465ef9fea)
 2) All Inga Chemical Evolution Data:
+
     i. GNPS results
     
 3) Ecuador Elivational Gradiant
+
    i. GNPS results 
    
     
