@@ -1,6 +1,11 @@
 # smile_2021_plumnet
 code and toy datasets used at the sMiLE 2021 meeting in Leipzeg. 
 
+Sample Metadata Google Sheets:
+	https://docs.google.com/spreadsheets/d/1e1ZCF0h8AQQwMO2dhRYerS1c-7xWDiwqen_BnnS1Teg/edit#gid=0
+
+
+
 Toy Datasets for the meeting:
 
 1) Data from Qemistree publication (https://www.nature.com/articles/s41589-020-00677-3).
@@ -24,6 +29,7 @@ Toy Datasets for the meeting:
 3) Ecuador Elivational Gradiant
 
    i. GNPS results 
+
    
     
          
